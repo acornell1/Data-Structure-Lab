@@ -1,6 +1,6 @@
 # DS-Lab
 
-This repo contains solution of lab assignments given to me in Data Structure course. All code is freeware and can be used/modified by any organisation weather private/government except terrorist organisations (:p).
+This repo contains solution of lab assignments given to me in Data Structure course. All code is proprietary and cannot be used/modified by any organisation weather private/government (D:).
 
 Way to compile code.
 
